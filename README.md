@@ -33,8 +33,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/yt-bot.git
-cd yt-bot
+git clone https://github.com/shohelahmed75/youtube_bot
+cd youtube-bot
 ```
 
 ### 2. Install Dependencies
@@ -192,4 +192,5 @@ YT BOT/
 ## 📜 License
 
 This project is for personal/educational use. Please respect YouTube's [Terms of Service](https://www.youtube.com/t/terms) and [API Services Terms](https://developers.google.com/youtube/terms/api-services-terms-of-service).
+
 # youtube_bot
